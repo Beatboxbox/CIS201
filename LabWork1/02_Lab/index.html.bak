@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Horror Game </title>
+</head>
+<body> 
+       <h1> CIS 201 Group Story </h1>
+       <p> Frank went to bed early.  He was sleeping peacefully then suddenly he heard a strange noise he wakes up in a different place , not in his bedroom. </p>
+<img src="dark.png">
+
+       <p> what nate do </p> 
+<ul>
+    <li> <a href="light_page.html"> Search for Light </a> </li>
+    <li> Escape </i>
+</ul>
+        </body>
+</html>
