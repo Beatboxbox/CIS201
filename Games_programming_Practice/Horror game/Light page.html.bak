@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Light </title>
+</head>
+
+<body>
+<p> What happens when they turn the light on ? </p>
+
+
+<ul>
+             <li> <a href =""> 1.Find light </a> </li>
+			 <li> <a href =""> 2.Escape through the door </a> </li>
+</ul>
+</body>
+</html>

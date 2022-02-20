@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Light </title>
+</head>
+
+<body>
+<p> You tried to shout and then heared noises coming from the door. </p>
+<img src="DoorNoises.png">
+
+<ul>
+             <li> <a href ="windowclosed.html"> 1.Try to open the Window </a> </li>
+			 <li> <a href ="Door.html"> See what's behind the door </a> </li>
+</ul>
+</body>
+</html>

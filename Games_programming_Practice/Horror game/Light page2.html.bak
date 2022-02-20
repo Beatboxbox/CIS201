@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Light </title>
+</head>
+
+<body>
+<p> Light is on and you need to find a way out! </p>
+		 <img src="LightOn.png">
+
+<ul>
+             <li> <a href =""> 1.Try to open the Window </a> </li>
+			 <li> <a href ="Door.html"> 2.Escape through the door </a> </li>
+</ul>
+</body>
+</html>

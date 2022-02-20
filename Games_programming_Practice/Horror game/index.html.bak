@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Horror Room </title>
+</head>
+<body>
+
+		
+
+		 <h1> Horror House </h1>
+		 <p> You wake up from a deep sleep when suddenly hearing strange noises, But it turns out that you're not in your bedroom and its pitch black. what will you do?! </p>
+		 
+		 <img src="darkroom.png">
+		 <p> Guess it's either you look for light and check where you are or use your phone to get help.
+		 What will you do?!!</p>
+		 
+			<ul>
+    <li> <a 	href="Light page2.html"> 1. Look for Light </a> </li>
+ 
+	
+   
+    <li> <a href = "Phone.html">2. Use your phone </a> </i>
+	
+	
+	</ul>
+		</body>
+		</html>
+		 
+		 
